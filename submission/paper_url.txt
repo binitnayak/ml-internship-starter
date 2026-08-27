@@ -1,1 +1,2 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://github.com/binitnayak/ml-internship-starter/blob/main/work/notebooks/capstone.ipynb
+https://binitflyrankpaper.netlify.app/
