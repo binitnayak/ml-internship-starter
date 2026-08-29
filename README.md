@@ -396,7 +396,7 @@ Explain that the model provides prioritization signals and does not guarantee th
 
 ### Demo Video
 
-**Demo Link:** `<ADD_DEMO_VIDEO_LINK>`
+**Demo Link:** `https://github.com/binitnayak/ml-internship-starter/blob/main/README.md`
 
 ## 13. Repository
 
