@@ -400,7 +400,7 @@ Explain that the model provides prioritization signals and does not guarantee th
 
 ## 13. Repository
 
-**GitHub Repository:** `<ADD_GITHUB_REPOSITORY_LINK>`
+**GitHub Repository:** `https://github.com/binitnayak/ml-internship-starter`
 
 ## 14. Showcase Thread
 
