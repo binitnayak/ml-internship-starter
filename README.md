@@ -41,7 +41,7 @@ The required Python packages are listed in `requirements.txt`.
 ### Clone the Repository
 
 ```bash
-git clone <https://github.com/binitnayak/ml-internship-starterL>
+git clone https://github.com/binitnayak/ml-internship-starterL
 cd ml-internship-starter-main
 ```
 
